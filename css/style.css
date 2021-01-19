@@ -7,3 +7,6 @@ body{
 header{
     background-color: aqua;
 }
+section{
+    margin: 0;
+}
