@@ -7,6 +7,10 @@ body{
 header{
     background-color: aqua;
 }
+
 footer{
     background-color: blue;
+}
+section{
+    margin: 0;
 }
